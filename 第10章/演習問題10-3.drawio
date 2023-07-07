@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" modified="2023-07-07T04:56:20.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="s3643LhhF6V9KTjUuTCv" version="21.6.1" type="device">
+  <diagram name="ページ1" id="jOh2jZPJ2Ui1b5TENfLH">
+    <mxGraphModel dx="1257" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="680" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.338;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320.00000000000017" y="890.84" as="sourcePoint" />
+            <mxPoint x="320.16" y="49.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="185" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-2" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-4" value="カードを挿入する" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-6" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-6" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-9" value="暗証番号を入力する" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-13" value="暗証番号を確認する" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-15" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-16" value="【NG】" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-15" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="620" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-18" value="引き出し金額を&lt;br&gt;入力する" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-17" value="【OK】" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-15" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="260" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-20" value="エラーメッセージを表示する" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-18" parent="1" target="Xevoeb9xiDvfFG-74W2G-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-22" value="口座から引き落とす" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-20" parent="1" target="Xevoeb9xiDvfFG-74W2G-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-22" parent="1" target="Xevoeb9xiDvfFG-74W2G-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-24" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="585" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-25" value="【残高不足】" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-24" parent="1" target="Xevoeb9xiDvfFG-74W2G-20">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="620" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-26" value="【OK】" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-24" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="480" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-27" value="現金を用意する" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-27" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-29" value="伝票を印刷する" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-30" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-29" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-31" value="現金、カードおよび伝票を取り出す" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-32" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Xevoeb9xiDvfFG-74W2G-31" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-33" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="185" y="820" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.999;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.001;exitY=0.065;exitDx=0;exitDy=0;exitPerimeter=0;endSize=5;startSize=5;" edge="1" parent="1" source="Xevoeb9xiDvfFG-74W2G-34" target="Xevoeb9xiDvfFG-74W2G-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="110" as="sourcePoint" />
+            <mxPoint x="130" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-37" value="利用者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xevoeb9xiDvfFG-74W2G-38" value="ATM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
